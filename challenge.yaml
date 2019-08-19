@@ -1,0 +1,8 @@
+# Challenge configuration
+name: guess game
+type: misc
+value: 200
+description: >
+        Compulsory course in Hogwarts School of Witchcraft and Wizardry.
+flag: flag{p1ckl3_15_pr377y_d3l1c10u5}
+image: true
